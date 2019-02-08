@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project19.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  SetCpp.cpp
+  Project19.vcxproj -> C:\Users\Даниел\Documents\Visual Studio 2017\Projects\PracticaAssigment\Debug\PracticaAssigment.exe
+  Project19.vcxproj -> C:\Users\Даниел\Documents\Visual Studio 2017\Projects\PracticaAssigment\Debug\PracticaAssigment.pdb (Partial PDB)
